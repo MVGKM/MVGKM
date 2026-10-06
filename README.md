@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hey, I'm Enyce 👋🏾
+
+I'm a Computer Scientist & Application Engineer who likes to build things, break things, and figure out why they broke.
+
+I'm somewhere between **AI, robotics, software, websites, games, and whatever else catches my curiosity next.** 
+
+I love experimenting, learning by building, and turning random ideas into something that actually works.
+
+Currently collecting side quests, one repository at a time. 
 
 <!--
 **MVGKM/MVGKM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
